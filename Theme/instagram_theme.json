@@ -1,0 +1,57 @@
+{
+  "name": "Instagram Analytics",
+  "dataColors": [
+    "#833AB4",
+    "#FD1D1D",
+    "#F77737",
+    "#FCAF45",
+    "#FFDC80",
+    "#405DE6",
+    "#5851DB",
+    "#C13584"
+  ],
+  "background": "#1a1a2e",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#833AB4",
+  "good": "#00B050",
+  "neutral": "#FCAF45",
+  "bad": "#FD1D1D",
+  "maximum": "#833AB4",
+  "center": "#F77737",
+  "minimum": "#FFDC80",
+  "null": "#888888",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{"value": "Segoe UI"}],
+        "fontSize": [{"value": 12}],
+        "background": [{"color": {"solid": {"color": "#16213e"}}}]
+      }
+    },
+    "card": {
+      "*": {
+        "calloutValue": [{"fontSize": 28, "fontBold": true, "color": {"solid": {"color": "#FFFFFF"}}}],
+        "categoryLabel": [{"fontSize": 12, "color": {"solid": {"color": "#C13584"}}}],
+        "background": [{"color": {"solid": {"color": "#16213e"}}}]
+      }
+    },
+    "barChart": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#16213e"}}}]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "fontColor": [{"color": {"solid": {"color": "#FFFFFF"}}}],
+        "background": [{"color": {"solid": {"color": "#16213e"}}}],
+        "gridColor": [{"color": {"solid": {"color": "#833AB4"}}}]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#16213e"}}}],
+        "fontColor": [{"color": {"solid": {"color": "#FFFFFF"}}}]
+      }
+    }
+  }
+}
