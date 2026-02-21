@@ -191,7 +191,7 @@ Photo Count     = CALCULATE(COUNTROWS(photos),
 <h2><a class="anchor" id="data-model--dashboard"></a>Data Model & Dashboard</h2>
 
 - Data Model
-<img src="Screenshots/data_model.jpg" width="880" alt="Data Model"/>
+<img src="Screenshots/data_model.JPG" width="880" alt="Data Model"/>
 - Dashboard — Executive Overview
 <img src="Screenshots/dashboard_overview.jpg" width="880" alt="Dashboard Overview"/>
 
@@ -290,5 +290,6 @@ Data Analyst | Proficient in SQL, R, Python, Gen AI, Excel, Power BI, Tableau, A
 - 📍 Pune, Maharashtra, India
 - 📧 Email: shejulrushi93@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/rushikeshshejul) | 💻 [GitHub](https://github.com/rushishejul)
+
 
 ---
