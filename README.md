@@ -190,11 +190,11 @@ Photo Count     = CALCULATE(COUNTROWS(photos),
 
 <h2><a class="anchor" id="data-model--dashboard"></a>Data Model & Dashboard</h2>
 
-- Data Model
-<img src="Screenshots/data_model.JPG" width="880" alt="Data Model"/>
-
 - Dashboard — Executive Overview
 <img src="Screenshots/dashboard_overview.PNG" width="880" alt="Dashboard Overview"/>
+
+- Data Model
+<img src="Screenshots/data_model.JPG" width="880" alt="Data Model"/>
 
 ---
 
