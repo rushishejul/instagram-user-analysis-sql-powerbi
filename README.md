@@ -295,5 +295,12 @@ Data Analyst | Proficient in SQL, R, Python, Gen AI, Excel, Power BI, Tableau, A
 
 ---
 
+<div align="center">
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/rushishejul)
+
+</div>
+
+
 
 
