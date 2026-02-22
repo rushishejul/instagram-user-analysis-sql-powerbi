@@ -25,11 +25,11 @@
 - <a href="#tools-and-technologies">Tools and Technologies</a>
 - <a href="#methods">Methods</a>
 - <a href="#key-insights">Key Insights</a>
-- <a href="data-model--dashboard">Data Model & Dashboard</a>
-- <a href="how-to-run-this-project">How to Run This Project</a>
-- <a href="results-and-conclusion">Results and Conclusion</a>
-- <a href="future-work">Future Work</a>
-- <a href="author">Author</a>
+- <a href="#data-model--dashboard">Data Model & Dashboard</a>
+- <a href="#how-to-run-this-project">How to Run This Project</a>
+- <a href="#results-and-conclusion">Results and Conclusion</a>
+- <a href="#future-work">Future Work</a>
+- <a href="#author">Author</a>
 
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
@@ -294,5 +294,6 @@ Data Analyst | Proficient in SQL, R, Python, Gen AI, Excel, Power BI, Tableau, A
 
 
 ---
+
 
 
