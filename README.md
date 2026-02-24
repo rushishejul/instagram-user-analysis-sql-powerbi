@@ -11,7 +11,7 @@
 
 ---
 
-# 📸 Instagram User Analytics Dashboard
+# 📸 Instagram User Analytics 
 
 > *Analyzing Instagram user behavior, engagement patterns, and platform health using MySQL and Power BI.*
 
@@ -300,6 +300,7 @@ Data Analyst | Proficient in SQL, R, Python, Gen AI, Excel, Power BI, Tableau, A
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/rushishejul)
 
 </div>
+
 
 
 
