@@ -4,7 +4,6 @@
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![DAX](https://img.shields.io/badge/DAX-742774?style=for-the-badge&logo=powerbi&logoColor=white)]()
 
 
 </div>
@@ -300,6 +299,7 @@ Data Analyst | Proficient in SQL, R, Python, Gen AI, Excel, Power BI, Tableau, A
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/rushishejul)
 
 </div>
+
 
 
 
